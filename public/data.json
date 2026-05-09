@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "index": " ",
+      "name": "TEABAG",
+      "sub": "茶宝",
+      "tag": "非人型 · 敌人 · 冷冽谷",
+      "quote": "大脑吞噬者",
+      "desc": "冷冽谷的守护野兽，盘踞大桥之侧。\n以不死人为食，伏击所有试图通过桥梁、前往月边故乡者。\n其存在并非出于意志，而更似某种被驯化的饥饿——持续而冷漠地吞噬不死之躯。",
+      "image": "/images/teabag1.jpg",
+      "detailImage": "/images/teabag2.jpg"
+    },
+    {
+      "id": 2,
+      "index": " ",
+      "name": "PEARL",
+      "sub": "宝珠",
+      "tag": "非人型 · 敌人 · 画中世界",
+      "quote": "绘画使者",
+      "desc": "法兰幽魂所饲养的哨兵，徘徊于雪中的遗迹。\n身形如雾般不定，忽隐忽现，难以捕捉其轨迹。\n据说其存在并无独立意志，仅遵循幽魂遗留的古老指令，监视一切闯入者。",
+      "image": "/images/pearl1.jpg",
+      "detailImage": "/images/pearl2.jpg"
+    }
+  ],
+
+  "gallery": [
+    {
+      "image": "/images/gallery1.jpg"
+    },
+    {
+      "image": "/images/gallery2.jpg"
+    },
+    {
+      "image": "/images/gallery3.jpg"
+    }
+  ],
+
+  "world": {
+    "title": "RELATIONSHIP",
+    "paragraphs": [
+      "在通往月边故乡的旧桥尽头，两者同处一隅。\n守桥的野兽“茶宝”盘踞于地面与石柱之间，以不死人为食，封锁通行之路。\n而“宝珠”则如雾般悬于其上，在暗影之间巡游。\n二者并非主从，也无交流可言。\n仅因同一片废弃的猎场而共存。"
+    ]
+  }
+}
